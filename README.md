@@ -317,7 +317,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [v2rayN](https://github.com/2dust/v2rayN) - V2Ray client
 - [Clash](https://github.com/Dreamacro/clash) - Proxy platform
 - [v2ray-core](https://github.com/v2fly/v2ray-core) - V2Ray implementation
-
----
-
-Made with ❤️ by the NexusBulker Team
